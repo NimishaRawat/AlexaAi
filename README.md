@@ -1,5 +1,5 @@
 # AlexaAi
-##Built an artificial assistant
+## Built an artificial assistant
 ## Installation
 ### For windows users
 (run those in command prompt/cmt/terminal)
